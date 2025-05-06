@@ -197,7 +197,7 @@ p{
 }
 .top-banner{
     width: 100%;
-    background-image:url('/Assets/images/bg/bg-1.jpg');
+    background-image:url('../images/bg/bg-1.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
